@@ -1,4 +1,4 @@
 dev-vars
 ========
 
-Loading environmental variables for your development enviroment
+Loading environmental variables for your node development environment
